@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-	color: #00ABE4;
+	color: red;
 	font-family: Roboto;
 	font-size: ;
 	font-weight: bold;
@@ -71,7 +71,6 @@ a:hover {
 		width: 400px;
 	}
 }
-
 
 
 .card-white {
